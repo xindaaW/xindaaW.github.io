@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Hello! 👋 I'm Xinda Wang, currently a Master's student in Software Engineering at Peking University, expected to graduate in 2027. I received my Bachelor's degree from Central South University in 2024.
+
 I am currently seeking new full-time internship opportunities. 🚀
 
 ## 💼 Career Interests
@@ -36,11 +37,11 @@ I am currently interested in the following work directions:
 
 ## 📚 Publications
 
-- Chenzhuo Zhao*, **Xinda Wang***, Yue Huang, Junting Lu, Ziqian Liu: "TASE: Token Awareness and Structured Evaluation for Multilingual Language Models." *AAAI 2026* 
+- Chenzhuo Zhao\*, **Xinda Wang**\*, Yue Huang, Junting Lu, Ziqian Liu: "TASE: Token Awareness and Structured Evaluation for Multilingual Language Models." *AAAI 2026* (\*Equal contribution) 
 
-- **Xinda Wang***, Zhengxu Hou*, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang: "EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation." *CoRR abs/2508.06046 (2025)* 
+- **Xinda Wang**\*, Zhengxu Hou\*, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang: "EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation." *CoRR abs/2508.06046 (2025)* (\*Equal contribution) 
 
-- Yangshijie Zhang*, **Xinda Wang***, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia: "Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent." *CoRR abs/2510.19641 (2025)* 
+- Yangshijie Zhang\*, **Xinda Wang**\*, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia: "Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent." *CoRR abs/2510.19641 (2025)* (\*Equal contribution) 
 
 - Chenzhuo Zhao, Ziqian Liu, **Xinda Wang**, Junting Lu, Chaoyi Ruan: "PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models." *EMNLP 2025*
 
