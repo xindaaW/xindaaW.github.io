@@ -26,11 +26,11 @@ author:
   avatar           : "xinda.png"
   name             : "Xinda Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Large Language Model Post-training and Continual Pre-training"
+  bio              : "Master's Student at Peking University"
   location         : "Beijing"
   employer         : "Peking University"
   uri              : # URL
-  email            : "wangxindaw@126.com" 
+  email            : # "wangxindaw@126.com" 
 
   # Academic websites
   academia         : # URL
