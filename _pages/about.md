@@ -39,13 +39,13 @@ I am currently interested in the following work directions:
 
 - Chenzhuo Zhao\*, **Xinda Wang**\*, Yue Huang, Junting Lu, Ziqian Liu: "TASE: Token Awareness and Structured Evaluation for Multilingual Language Models." *AAAI 2026* (\*Equal contribution) 
 
-- **Xinda Wang**\*, Zhengxu Hou\*, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang: "EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation." *CoRR abs/2508.06046 (2025)* (\*Equal contribution) 
+- **Xinda Wang**, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang: "EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation." *CoRR abs/2508.06046 (2025)* 
 
 - Yangshijie Zhang\*, **Xinda Wang**\*, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia: "Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent." *CoRR abs/2510.19641 (2025)* (\*Equal contribution) 
 
 - Chenzhuo Zhao, Ziqian Liu, **Xinda Wang**, Junting Lu, Chaoyi Ruan: "PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models." *EMNLP 2025*
 
-- Xiyao Liu, Junxing Ma, **Xinda Wang**, Qianyu Lin, Jian Zhang, Gerald Schaefer, Cagatay Turkay, Hui Fang: "Recoverable Facial Identity Protection via Adaptive Makeup Transfer Adversarial Attacks." *AAAI 2025*
+- Xiyao Liu, Junxing Ma, **Xinda Wang**, Qianyu Lin, Jian Zhang, Gerald Schaefer, Cagatay Turkay, Hui Fang: "Recoverable Facial Identity Protection via Adaptive Makeup Transfer Adversarial Attacks." *AAAI 2025(oral)*
 
 *📝 Note: I currently have 3 ACL, 1 CVPR, and 1 IJCAI papers under review that have not been published on arXiv yet. These will be released gradually in the future.*
 
