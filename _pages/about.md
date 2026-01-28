@@ -54,20 +54,19 @@ I am currently interested in the following work directions:
 
 ## 🧪 Under Review
 
-- **"ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR."** *Under review*  
-  ChenZhuo Zhao, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, **Xinda Wang**, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
-
-- **"Gradient-Guided Multi-Judge Prompt Optimization."** *Under review*  
-  ChenZhuo Zhao, **Xinda Wang**, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
-
 - **"Triviality Corrected Endogenous Reward."** *Under review*  
   **Xinda Wang**, Zhengxu Hou, Yangshijie Zhang, yanbingren, Jialin Liu, ChenZhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao
 
 - **"DisRec: Disease Diagnosis as Recommendation."** *Under review*  
   **Xinda Wang**, Hongzhi Liu, ChenZhuo Zhao, wenhao zhang
 
+- **"Gradient-Guided Multi-Judge Prompt Optimization."** *Under review*  
+  ChenZhuo Zhao, **Xinda Wang**, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 - **"Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection."** *Under review*  
   You Hu, Haotian Liu, **Xinda Wang**, Guoying Zhao, Xiaobai Li
+
+- **"ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR."** *Under review*  
+  ChenZhuo Zhao, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, **Xinda Wang**, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 
 *📝 Note: I currently have 3 ACL, 1 CVPR, and 1 IJCAI papers under review that have not been published on arXiv yet. These will be released gradually in the future.*
 
