@@ -42,31 +42,188 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom styles for better typography */
+/* Homepage polish (about page) */
 .page__content {
-  font-size: 16px !important;
-  line-height: 1.6 !important;
+  font-size: 16px;
+  line-height: 1.7;
 }
 
-.page__content h1 {
-  font-size: 2em !important;
+.home-hero {
+  position: relative;
+  margin: 0 0 2rem;
+  padding: 1.6rem 1.7rem;
+  border-radius: 16px;
+  border: 1px solid rgba(37, 99, 235, 0.16);
+  background: linear-gradient(120deg, rgba(16, 185, 129, 0.12), rgba(37, 99, 235, 0.08) 45%, rgba(255, 255, 255, 0.92));
+  box-shadow: 0 8px 26px rgba(15, 23, 42, 0.08);
 }
 
-.page__content h2 {
-  font-size: 1.5em !important;
-  margin-top: 2em !important;
-  margin-bottom: 1em !important;
+.home-hero__eyebrow {
+  margin: 0 0 0.45rem;
+  font-size: 0.86rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #0f766e;
 }
 
-.page__content h3 {
-  font-size: 1.3em !important;
+.home-hero__title {
+  margin: 0;
+  font-size: 2.05rem;
+  line-height: 1.2;
 }
 
-.page__content p, .page__content li {
-  font-size: 16px !important;
+.home-hero__desc {
+  margin: 0.9rem 0 0;
+  max-width: 52rem;
+  color: #334155;
 }
 
-/* Better font family */
-.page__content {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+.home-hero__status {
+  display: inline-block;
+  margin: 1rem 0 0;
+  padding: 0.34rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(14, 165, 233, 0.12);
+  color: #0c4a6e;
+  font-weight: 600;
+}
+
+.home-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.home-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.46rem 0.95rem;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background: #0f766e;
+  color: #fff !important;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.home-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 20px rgba(15, 118, 110, 0.25);
+  background: #115e59;
+}
+
+.home-btn--ghost {
+  background: #fff;
+  color: #0f766e !important;
+  border-color: rgba(15, 118, 110, 0.35);
+}
+
+.home-btn--ghost:hover {
+  box-shadow: 0 8px 20px rgba(15, 118, 110, 0.12);
+  background: rgba(15, 118, 110, 0.06);
+}
+
+.home-section {
+  margin: 2rem 0;
+}
+
+.home-section h2 {
+  margin-bottom: 0.8rem;
+  font-size: 1.33rem;
+}
+
+.home-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.home-chip {
+  display: inline-block;
+  padding: 0.33rem 0.72rem;
+  border-radius: 999px;
+  border: 1px solid rgba(59, 130, 246, 0.24);
+  background: rgba(59, 130, 246, 0.08);
+  color: #1e3a8a;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.home-timeline,
+.home-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.home-timeline li,
+.home-list li {
+  margin: 0.44rem 0;
+}
+
+.pub-cards {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.8rem;
+}
+
+.pub-card {
+  padding: 0.95rem 1rem;
+  border: 1px solid rgba(30, 41, 59, 0.1);
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.05);
+}
+
+.pub-card__title {
+  margin: 0;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.pub-card__meta {
+  margin: 0.3rem 0 0;
+  color: #0f766e;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.pub-card__authors {
+  margin: 0.38rem 0 0;
+  color: #334155;
+  font-size: 0.96rem;
+}
+
+.home-note {
+  margin-top: 0.8rem;
+  color: #475569;
+  font-style: italic;
+}
+
+.home-contact {
+  padding: 1.1rem 1.2rem;
+  border: 1px solid rgba(15, 118, 110, 0.2);
+  border-radius: 12px;
+  background: rgba(15, 118, 110, 0.05);
+}
+
+@media (max-width: 768px) {
+  .home-hero {
+    padding: 1.25rem 1.15rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .home-hero__title {
+    font-size: 1.75rem;
+  }
+
+  .home-section {
+    margin: 1.55rem 0;
+  }
 }
