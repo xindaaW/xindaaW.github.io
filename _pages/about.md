@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinda Wang | AI Researcher"
+title:
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
   <p class="home-hero__eyebrow">AI Researcher · PKU MS Student</p>
   <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    I am a Master's student in Software Engineering at Peking University (expected graduation: 2027), with research interests in LLM applications, alignment, and AI-powered recommendation systems.
+    I am a Master's student in Software Engineering at Peking University (expected graduation: 2027), with research interests in large language model alignment, including post-training, prompt optimization, and benchmark construction.
   </p>
   <p class="home-hero__status">Open to full-time internship opportunities.</p>
   <div class="home-hero__actions">
@@ -23,9 +23,10 @@ redirect_from:
 <section class="home-section">
   <h2>Research Interests</h2>
   <div class="home-chip-list">
-    <span class="home-chip">Large Language Model Applications</span>
     <span class="home-chip">Large Language Model Alignment</span>
-    <span class="home-chip">LLM for Search, Ads, and Recommendation</span>
+    <span class="home-chip">Post-Training</span>
+    <span class="home-chip">Prompt Optimization</span>
+    <span class="home-chip">Benchmark Construction</span>
   </div>
 </section>
 
