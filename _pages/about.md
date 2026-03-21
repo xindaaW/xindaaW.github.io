@@ -10,9 +10,9 @@ redirect_from:
 <section class="home-hero">
   <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    目前在北京大学硕士在读，2024年毕业于中南大学。当前我正集中精力研究大模型后训练，重点关注 LLM 的 Reward Model 和人类偏好对齐，尤其是 Writing 等开放文本生成领域。同时我也对用 Agent 做有意义的个人应用很感兴趣，并希望通过开源项目帮助更多人，如果你感兴趣欢迎和我合作。也有幸获得过北京大学学业优秀奖、国家奖学金、全国大学生数学建模竞赛国家二等奖。
+    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing. I am also very interested in building meaningful personal applications with agents, and I hope to help more people through open-source projects. If this resonates with you, collaboration is very welcome.
   </p>
-  <p class="home-hero__status">Looking for full-time opportunities.</p>
+  <p class="home-hero__status">Open to full-time opportunities.</p>
   <div class="home-hero__actions">
     <a class="home-btn" href="mailto:wangxindaw@126.com">Email</a>
     <a class="home-btn home-btn--ghost" href="https://dblp.org/pid/402/0306.html" target="_blank" rel="noopener">DBLP</a>
@@ -22,26 +22,26 @@ redirect_from:
 <section class="home-section">
   <h2>Upcoming Open-Source Projects</h2>
   <ul class="home-list">
-    <li><strong>DailyPaperAgent</strong> - currently under active development, open source coming soon</li>
-    <li><strong>NovelWritingAgent</strong> - currently under active development, open source coming soon</li>
-    <li><strong>PPTAgent</strong> - currently under active development, open source coming soon</li>
+    <li><strong>DailyPaperAgent</strong> - currently under active development, open-source release coming soon</li>
+    <li><strong>NovelWritingAgent</strong> - currently under active development, open-source release coming soon</li>
+    <li><strong>PPTAgent</strong> - currently under active development, open-source release coming soon</li>
   </ul>
   <p class="home-note">
-    These projects have not been open-sourced yet. If you are interested, collaboration is very welcome.
+    These projects are not open-sourced yet. If you are interested, collaboration is very welcome.
   </p>
 </section>
 
 <section class="home-section">
   <h2>Research Interests</h2>
   <div class="home-chip-list">
-    <span class="home-chip">大模型的人类偏好对齐</span>
+    <span class="home-chip">Human Preference Alignment for LLMs</span>
     <span class="home-chip">Prompt Optimization</span>
     <span class="home-chip">Benchmark Construction</span>
   </div>
 </section>
 
 <section class="home-section">
-  <h2>个人经历</h2>
+  <h2>Personal Experience</h2>
   <ul class="home-timeline">
     <li><strong>2024 - Present</strong> · M.S. in Software Engineering, Peking University, Beijing, China</li>
     <li><strong>2020 - 2024</strong> · B.S., Central South University, Changsha, China</li>
@@ -84,12 +84,12 @@ redirect_from:
 <section class="home-section">
   <h2>Under Review</h2>
   <ul class="home-list">
-    <li><strong>Triviality Corrected Endogenous Reward.</strong> <em>Under review</em></li>
-    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>Under review</em></li>
-    <li><strong>Gradient-Guided Multi-Judge Prompt Optimization.</strong> <em>Under review</em></li>
-    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>Under review</em></li>
-    <li><strong>Process Rewarding via Solution-Space Alignment.</strong> <em>Under review</em></li>
-    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>Under review</em></li>
+    <li><strong>Triviality Corrected Endogenous Reward.</strong> <em>Under Review</em></li>
+    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>Under Review</em></li>
+    <li><strong>Gradient-Guided Multi-Judge Prompt Optimization.</strong> <em>Under Review</em></li>
+    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>Under Review</em></li>
+    <li><strong>Process Rewarding via Solution-Space Alignment.</strong> <em>Under Review</em></li>
+    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>Under Review</em></li>
   </ul>
 </section>
 
