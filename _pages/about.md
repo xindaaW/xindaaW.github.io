@@ -11,7 +11,7 @@ redirect_from:
   <p class="home-hero__eyebrow">AI Researcher · PKU MS Student</p>
   <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    I am a Master's student in Software Engineering at Peking University (expected graduation: 2027), with research interests in large language model alignment, including post-training, prompt optimization, and benchmark construction.
+    I am currently focusing on post-training for large language models, with primary attention on reward modeling and alignment with human preferences, especially in open-ended text generation domains such as writing.
   </p>
   <p class="home-hero__status">Open to full-time internship opportunities.</p>
   <div class="home-hero__actions">
@@ -65,7 +65,7 @@ redirect_from:
     </li>
     <li class="pub-card">
       <p class="pub-card__title">EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation.</p>
-      <p class="pub-card__meta">CoRR abs/2508.06046 (2025)</p>
+      <p class="pub-card__meta"><a href="https://arxiv.org/abs/2508.06046" target="_blank" rel="noopener">arXiv:2508.06046</a> (2025)</p>
       <p class="pub-card__authors"><strong>Xinda Wang</strong>, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang</p>
     </li>
     <li class="pub-card">
@@ -89,14 +89,27 @@ redirect_from:
 <section class="home-section">
   <h2>Under Review</h2>
   <ul class="home-list">
-    <li><strong>Triviality Corrected Endogenous Reward.</strong> <em>Under review</em></li>
-    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>Under review</em></li>
-    <li><strong>Gradient-Guided Multi-Judge Prompt Optimization.</strong> <em>Under review</em></li>
-    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>Under review</em></li>
-    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>Under review</em></li>
+    <li><strong>Triviality Corrected Endogenous Reward.</strong> <em>ACL under review</em></li>
+    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>IJCAI under review</em></li>
+    <li><strong>Gradient-Guided Multi-Judge Prompt Optimization.</strong> <em>ACL under review</em></li>
+    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>ACM MM under review</em></li>
+    <li><strong>Process Rewarding via Solution-Space Alignment.</strong> <em>Under review</em></li>
+    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>ACL Rolling Review - March 2026 under review</em></li>
   </ul>
   <p class="home-note">
     I also have 3 ACL, 1 CVPR, and 1 IJCAI papers currently under review and not yet on arXiv.
+  </p>
+</section>
+
+<section class="home-section">
+  <h2>Upcoming Open-Source Projects</h2>
+  <ul class="home-list">
+    <li><strong>DailyPaperAgent</strong> - currently under active development, open source coming soon</li>
+    <li><strong>NovelWritingAgent</strong> - currently under active development, open source coming soon</li>
+    <li><strong>PPTAgent</strong> - currently under active development, open source coming soon</li>
+  </ul>
+  <p class="home-note">
+    These projects have not been open-sourced yet. If you are interested, collaboration is very welcome.
   </p>
 </section>
 
