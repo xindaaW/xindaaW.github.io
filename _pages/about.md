@@ -10,7 +10,7 @@ redirect_from:
 <section class="home-hero">
   <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    目前在北京大学硕士在读，2024年毕业于中南大学。当前我正集中精力研究大模型后训练，重点关注 LLM 的 Reward Model 和人类偏好对齐，尤其是 Writing 等开放文本生成领域。同时我也对用 Agent 做有意义的个人应用很感兴趣，并希望通过开源项目帮助更多人，如果你感兴趣欢迎和我合作。
+    目前在北京大学硕士在读，2024年毕业于中南大学。当前我正集中精力研究大模型后训练，重点关注 LLM 的 Reward Model 和人类偏好对齐，尤其是 Writing 等开放文本生成领域。同时我也对用 Agent 做有意义的个人应用很感兴趣，并希望通过开源项目帮助更多人，如果你感兴趣欢迎和我合作。也有幸获得过北京大学学业优秀奖、国家奖学金、全国大学生数学建模竞赛国家二等奖。
   </p>
   <p class="home-hero__status">Looking for full-time opportunities.</p>
   <div class="home-hero__actions">
@@ -34,35 +34,19 @@ redirect_from:
 <section class="home-section">
   <h2>Research Interests</h2>
   <div class="home-chip-list">
-    <span class="home-chip">Large Language Model Alignment</span>
-    <span class="home-chip">Post-Training</span>
+    <span class="home-chip">大模型的人类偏好对齐</span>
     <span class="home-chip">Prompt Optimization</span>
     <span class="home-chip">Benchmark Construction</span>
   </div>
 </section>
 
 <section class="home-section">
-  <h2>Education</h2>
+  <h2>个人经历</h2>
   <ul class="home-timeline">
     <li><strong>2024 - Present</strong> · M.S. in Software Engineering, Peking University, Beijing, China</li>
     <li><strong>2020 - 2024</strong> · B.S., Central South University, Changsha, China</li>
-  </ul>
-</section>
-
-<section class="home-section">
-  <h2>Internship Experience</h2>
-  <ul class="home-timeline">
     <li><strong>2025.05 - 2026.01</strong> · LLM Algorithm Intern, Alibaba Xingyun Lab</li>
     <li><strong>2024.10 - 2025.04</strong> · Recommendation Algorithm Intern, Baidu MEG</li>
-  </ul>
-</section>
-
-<section class="home-section">
-  <h2>Honors and Awards</h2>
-  <ul class="home-list">
-    <li>Peking University Academic Excellence Award</li>
-    <li>National Scholarship</li>
-    <li>National Second Prize, National Mathematical Contest in Modeling for College Students</li>
   </ul>
 </section>
 
