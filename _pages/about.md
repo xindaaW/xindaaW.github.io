@@ -10,7 +10,7 @@ redirect_from:
 <section class="home-hero">
   <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing. I am also very interested in building meaningful personal applications with agents, and I hope to help more people through open-source projects. If this resonates with you, collaboration is very welcome.
+    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing.
   </p>
   <p class="home-hero__status">Open to full-time opportunities.</p>
   <div class="home-hero__actions">
