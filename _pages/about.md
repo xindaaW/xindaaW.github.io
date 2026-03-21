@@ -10,7 +10,7 @@ redirect_from:
 <section class="home-hero">
   <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing.
+    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing. I am also interested in building meaningful applications with agents and am actively developing related projects. If collaboration is of interest, feel free to reach out.
   </p>
   <p class="home-hero__status">Open to full-time opportunities.</p>
   <div class="home-hero__actions">
@@ -22,9 +22,9 @@ redirect_from:
 <section class="home-section">
   <h2>Upcoming Open-Source Projects</h2>
   <ul class="home-list">
-    <li><strong>DailyPaperAgent</strong> - currently under active development, open-source release coming soon</li>
-    <li><strong>NovelWritingAgent</strong> - currently under active development, open-source release coming soon</li>
-    <li><strong>PPTAgent</strong> - currently under active development, open-source release coming soon</li>
+    <li><strong>DailyPaperAgent</strong> - release coming soon</li>
+    <li><strong>NovelWritingAgent</strong> - release coming soon</li>
+    <li><strong>PPTAgent</strong> - release coming soon</li>
   </ul>
   <p class="home-note">
     These projects are not open-sourced yet. If you are interested, collaboration is very welcome.
