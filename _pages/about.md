@@ -8,16 +8,27 @@ redirect_from:
 ---
 
 <section class="home-hero">
-  <p class="home-hero__eyebrow">AI Researcher · PKU MS Student</p>
   <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    I am currently focusing on post-training for large language models, with primary attention on reward modeling and alignment with human preferences, especially in open-ended text generation domains such as writing.
+    目前在北京大学硕士在读，2024年毕业于中南大学。当前我正集中精力研究大模型后训练，重点关注 LLM 的 Reward Model 和人类偏好对齐，尤其是 Writing 等开放文本生成领域。同时我也对用 Agent 做有意义的个人应用很感兴趣，并希望通过开源项目帮助更多人，如果你感兴趣欢迎和我合作。
   </p>
-  <p class="home-hero__status">Looking for full-time jobs (找工作ing).</p>
+  <p class="home-hero__status">Looking for full-time opportunities.</p>
   <div class="home-hero__actions">
     <a class="home-btn" href="mailto:wangxindaw@126.com">Email</a>
     <a class="home-btn home-btn--ghost" href="https://dblp.org/pid/402/0306.html" target="_blank" rel="noopener">DBLP</a>
   </div>
+</section>
+
+<section class="home-section">
+  <h2>Upcoming Open-Source Projects</h2>
+  <ul class="home-list">
+    <li><strong>DailyPaperAgent</strong> - currently under active development, open source coming soon</li>
+    <li><strong>NovelWritingAgent</strong> - currently under active development, open source coming soon</li>
+    <li><strong>PPTAgent</strong> - currently under active development, open source coming soon</li>
+  </ul>
+  <p class="home-note">
+    These projects have not been open-sourced yet. If you are interested, collaboration is very welcome.
+  </p>
 </section>
 
 <section class="home-section">
@@ -60,27 +71,27 @@ redirect_from:
   <ul class="pub-cards">
     <li class="pub-card">
       <p class="pub-card__title">TASE: Token Awareness and Structured Evaluation for Multilingual Language Models.</p>
-      <p class="pub-card__meta">AAAI 2026 · Equal contribution</p>
+      <p class="pub-card__meta">Under Review</p>
       <p class="pub-card__authors">Chenzhuo Zhao*, <strong>Xinda Wang*</strong>, Yue Huang, Junting Lu, Ziqian Liu</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation.</p>
-      <p class="pub-card__meta"><a href="https://arxiv.org/abs/2508.06046" target="_blank" rel="noopener">arXiv:2508.06046</a> (2025)</p>
+      <p class="pub-card__meta">Under Review</p>
       <p class="pub-card__authors"><strong>Xinda Wang</strong>, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent.</p>
-      <p class="pub-card__meta">ICASSP 2026 · Equal contribution</p>
+      <p class="pub-card__meta">Under Review</p>
       <p class="pub-card__authors">Yangshijie Zhang*, <strong>Xinda Wang*</strong>, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models.</p>
-      <p class="pub-card__meta">EMNLP 2025</p>
+      <p class="pub-card__meta">Under Review</p>
       <p class="pub-card__authors">Chenzhuo Zhao, Ziqian Liu, <strong>Xinda Wang</strong>, Junting Lu, Chaoyi Ruan</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">Recoverable Facial Identity Protection via Adaptive Makeup Transfer Adversarial Attacks.</p>
-      <p class="pub-card__meta">AAAI 2025 (Oral)</p>
+      <p class="pub-card__meta">Under Review</p>
       <p class="pub-card__authors">Xiyao Liu, Junxing Ma, <strong>Xinda Wang</strong>, Qianyu Lin, Jian Zhang, Gerald Schaefer, Cagatay Turkay, Hui Fang</p>
     </li>
   </ul>
@@ -89,28 +100,13 @@ redirect_from:
 <section class="home-section">
   <h2>Under Review</h2>
   <ul class="home-list">
-    <li><strong>Triviality Corrected Endogenous Reward.</strong> <em>ACL under review</em></li>
-    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>IJCAI under review</em></li>
-    <li><strong>Gradient-Guided Multi-Judge Prompt Optimization.</strong> <em>ACL under review</em></li>
-    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>ACM MM under review</em></li>
+    <li><strong>Triviality Corrected Endogenous Reward.</strong> <em>Under review</em></li>
+    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>Under review</em></li>
+    <li><strong>Gradient-Guided Multi-Judge Prompt Optimization.</strong> <em>Under review</em></li>
+    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>Under review</em></li>
     <li><strong>Process Rewarding via Solution-Space Alignment.</strong> <em>Under review</em></li>
-    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>ACL Rolling Review - March 2026 under review</em></li>
+    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>Under review</em></li>
   </ul>
-  <p class="home-note">
-    I also have 3 ACL, 1 CVPR, and 1 IJCAI papers currently under review and not yet on arXiv.
-  </p>
-</section>
-
-<section class="home-section">
-  <h2>Upcoming Open-Source Projects</h2>
-  <ul class="home-list">
-    <li><strong>DailyPaperAgent</strong> - currently under active development, open source coming soon</li>
-    <li><strong>NovelWritingAgent</strong> - currently under active development, open source coming soon</li>
-    <li><strong>PPTAgent</strong> - currently under active development, open source coming soon</li>
-  </ul>
-  <p class="home-note">
-    These projects have not been open-sourced yet. If you are interested, collaboration is very welcome.
-  </p>
 </section>
 
 <section class="home-section home-contact">
