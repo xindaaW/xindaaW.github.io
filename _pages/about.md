@@ -13,7 +13,7 @@ redirect_from:
   <p class="home-hero__desc">
     I am currently focusing on post-training for large language models, with primary attention on reward modeling and alignment with human preferences, especially in open-ended text generation domains such as writing.
   </p>
-  <p class="home-hero__status">Open to full-time internship opportunities.</p>
+  <p class="home-hero__status">Looking for full-time jobs (找工作ing).</p>
   <div class="home-hero__actions">
     <a class="home-btn" href="mailto:wangxindaw@126.com">Email</a>
     <a class="home-btn home-btn--ghost" href="https://dblp.org/pid/402/0306.html" target="_blank" rel="noopener">DBLP</a>
@@ -116,7 +116,7 @@ redirect_from:
 <section class="home-section home-contact">
   <h2>Contact</h2>
   <p>
-    For academic discussion, research collaboration, or internship opportunities, feel free to reach out:
+    For academic discussion, research collaboration, or full-time opportunities, feel free to reach out:
     <a href="mailto:wangxindaw@126.com"><strong>wangxindaw@126.com</strong></a>
   </p>
 </section>
