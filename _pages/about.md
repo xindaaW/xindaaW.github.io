@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 <section class="home-hero">
-  <h1 class="home-hero__title">Xinda Wang</h1>
   <p class="home-hero__desc">
-    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing. I am also interested in building meaningful applications with agents and am actively developing related projects. If collaboration is of interest, feel free to reach out.
+    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing.
+  </p>
+  <p class="home-hero__desc">
+    I am also interested in building meaningful applications with agents and am actively developing related projects. If collaboration is of interest, feel free to reach out.
   </p>
   <p class="home-hero__status">Open to full-time opportunities.</p>
   <div class="home-hero__actions">
@@ -22,7 +24,7 @@ redirect_from:
 <section class="home-section">
   <h2>Upcoming Open-Source Projects</h2>
   <ul class="home-list">
-    <li><strong>DailyPaperAgent</strong> - release coming soon</li>
+    <li><strong>DailyPaperAgent</strong> - <a href="https://github.com/xindaaW/DailyPaperAgent" target="_blank" rel="noopener">GitHub</a></li>
     <li><strong>NovelWritingAgent</strong> - release coming soon</li>
     <li><strong>PPTAgent</strong> - release coming soon</li>
   </ul>
@@ -41,10 +43,16 @@ redirect_from:
 </section>
 
 <section class="home-section">
-  <h2>Personal Experience</h2>
+  <h2>Education</h2>
   <ul class="home-timeline">
     <li><strong>2020 - 2024</strong> · B.S., Central South University, Changsha, China</li>
     <li><strong>2024 - Present</strong> · M.S. in Software Engineering, Peking University, Beijing, China</li>
+  </ul>
+</section>
+
+<section class="home-section">
+  <h2>Internship Experience</h2>
+  <ul class="home-timeline">
     <li><strong>2024.10 - 2025.04</strong> · Recommendation Algorithm Intern, Baidu MEG</li>
     <li><strong>2025.05 - 2026.01</strong> · LLM Algorithm Intern, Alibaba Xingyun Lab</li>
   </ul>
