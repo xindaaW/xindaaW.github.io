@@ -63,7 +63,7 @@ redirect_from:
   <ul class="pub-cards">
     <li class="pub-card">
       <p class="pub-card__title">TASE: Token Awareness and Structured Evaluation for Multilingual Language Models.</p>
-      <p class="pub-card__meta">AAAI 2026 · Equal contribution</p>
+      <p class="pub-card__meta"><a href="https://arxiv.org/abs/2508.05468" target="_blank" rel="noopener">arXiv:2508.05468</a> · AAAI 2026 · Equal contribution</p>
       <p class="pub-card__authors">Chenzhuo Zhao*, <strong>Xinda Wang*</strong>, Yue Huang, Junting Lu, Ziqian Liu</p>
     </li>
     <li class="pub-card">
@@ -73,17 +73,17 @@ redirect_from:
     </li>
     <li class="pub-card">
       <p class="pub-card__title">Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent.</p>
-      <p class="pub-card__meta">ICASSP 2026 · Equal contribution</p>
+      <p class="pub-card__meta"><a href="https://arxiv.org/abs/2510.19641" target="_blank" rel="noopener">arXiv:2510.19641</a> · ICASSP 2026 · Equal contribution</p>
       <p class="pub-card__authors">Yangshijie Zhang*, <strong>Xinda Wang*</strong>, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models.</p>
-      <p class="pub-card__meta">EMNLP 2025</p>
+      <p class="pub-card__meta"><a href="https://arxiv.org/abs/2505.16307" target="_blank" rel="noopener">arXiv:2505.16307</a> · EMNLP 2025</p>
       <p class="pub-card__authors">Chenzhuo Zhao, Ziqian Liu, <strong>Xinda Wang</strong>, Junting Lu, Chaoyi Ruan</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">Recoverable Facial Identity Protection via Adaptive Makeup Transfer Adversarial Attacks.</p>
-      <p class="pub-card__meta">AAAI 2025 (Oral)</p>
+      <p class="pub-card__meta"><a href="https://doi.org/10.1609/aaai.v39i1.32031" target="_blank" rel="noopener">AAAI 2025 (Oral)</a></p>
       <p class="pub-card__authors">Xiyao Liu, Junxing Ma, <strong>Xinda Wang</strong>, Qianyu Lin, Jian Zhang, Gerald Schaefer, Cagatay Turkay, Hui Fang</p>
     </li>
   </ul>
