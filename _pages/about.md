@@ -25,7 +25,7 @@ redirect_from:
   <h2>Upcoming Open-Source Projects</h2>
   <ul class="home-list">
     <li><strong>DailyPaperAgent</strong> - <a href="https://github.com/xindaaW/DailyPaperAgent" target="_blank" rel="noopener">GitHub</a></li>
-    <li><strong>NovelWritingAgent</strong> - release coming soon</li>
+    <li><strong>NovelWritingAgent</strong> - <a href="https://github.com/xindaaW/NovelWritingAgent" target="_blank" rel="noopener">GitHub</a></li>
     <li><strong>PPTAgent</strong> - release coming soon</li>
   </ul>
   <p class="home-note">
