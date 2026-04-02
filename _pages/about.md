@@ -26,10 +26,10 @@ redirect_from:
   <ul class="home-list">
     <li><strong>DailyPaperAgent</strong> - <a href="https://github.com/xindaaW/DailyPaperAgent" target="_blank" rel="noopener">GitHub</a></li>
     <li><strong>NovelWritingAgent</strong> - <a href="https://github.com/xindaaW/NovelWritingAgent" target="_blank" rel="noopener">GitHub</a></li>
-    <li><strong>PPTAgent</strong> - release coming soon</li>
+    <li><strong>PPTAgent</strong> - <a href="https://github.com/Morgensonne/EditDeck" target="_blank" rel="noopener">GitHub</a></li>
   </ul>
   <p class="home-note">
-    These projects are not open-sourced yet. If you are interested, collaboration is very welcome.
+    PRs and collaboration are welcome. Let's build better AI applications together.
   </p>
 </section>
 
