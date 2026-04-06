@@ -54,7 +54,7 @@ redirect_from:
   <h2>Internship Experience</h2>
   <ul class="home-timeline">
     <li><strong>2024.10 - 2025.04</strong> · Recommendation Algorithm Intern, Baidu MEG</li>
-    <li><strong>2025.05 - 2026.01</strong> · LLM Algorithm Intern, Alibaba Qwen Team</li>
+    <li><strong>2025.05 - 2026.01</strong> · LLM Algorithm Intern, Alibaba Xingyun Lab</li>
     <li><strong>2026.03 - Present</strong> · LLM Algorithm Intern, Alibaba Qwen Team</li>
   </ul>
 </section>
