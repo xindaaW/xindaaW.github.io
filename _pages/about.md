@@ -68,8 +68,18 @@ redirect_from:
     </li>
     <li class="pub-card">
       <p class="pub-card__title">EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation.</p>
-      <p class="pub-card__meta"><a href="https://arxiv.org/abs/2508.06046" target="_blank" rel="noopener">arXiv:2508.06046</a> (2025)</p>
+      <p class="pub-card__meta"><a href="https://arxiv.org/abs/2508.06046" target="_blank" rel="noopener">arXiv:2508.06046</a> · ACL 2026</p>
       <p class="pub-card__authors"><strong>Xinda Wang</strong>, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang</p>
+    </li>
+    <li class="pub-card">
+      <p class="pub-card__title">Triviality Corrected Endogenous Reward.</p>
+      <p class="pub-card__meta">ACL 2026</p>
+      <p class="pub-card__authors"><strong>Xinda Wang</strong>, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang</p>
+    </li>
+    <li class="pub-card">
+      <p class="pub-card__title">Gradient-Guided Multi-Judge Prompt Optimization.</p>
+      <p class="pub-card__meta">ACL 2026</p>
+      <p class="pub-card__authors">ChenZhuo Zhao, <strong>Xinda Wang</strong>, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent.</p>
@@ -92,9 +102,7 @@ redirect_from:
 <section class="home-section">
   <h2>Under Review</h2>
   <ul class="home-list">
-    <li><strong>Triviality Corrected Endogenous Reward.</strong> <em>Under Review</em></li>
     <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>Under Review</em></li>
-    <li><strong>Gradient-Guided Multi-Judge Prompt Optimization.</strong> <em>Under Review</em></li>
     <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>Under Review</em></li>
     <li><strong>Process Rewarding via Solution-Space Alignment.</strong> <em>Under Review</em></li>
     <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>Under Review</em></li>
