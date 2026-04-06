@@ -9,7 +9,7 @@ redirect_from:
 
 <section class="home-hero">
   <p class="home-hero__desc">
-    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing.
+    I am currently an M.S. student at Peking University and received my B.S. from Central South University in 2024. I am currently interning at the Tongyi Qwen Team. My current focus is post-training for large language models, with particular interest in reward modeling and human preference alignment, especially for open-ended text generation tasks such as writing.
   </p>
   <p class="home-hero__desc">
     I am also interested in building meaningful applications with agents and am actively developing related projects. If collaboration is of interest, feel free to reach out.
@@ -53,6 +53,7 @@ redirect_from:
 <section class="home-section">
   <h2>Internship Experience</h2>
   <ul class="home-timeline">
+    <li><strong>2026.03 - Present</strong> · Tongyi Qwen Team</li>
     <li><strong>2024.10 - 2025.04</strong> · Recommendation Algorithm Intern, Baidu MEG</li>
     <li><strong>2025.05 - 2026.01</strong> · LLM Algorithm Intern, Alibaba Xingyun Lab</li>
   </ul>
