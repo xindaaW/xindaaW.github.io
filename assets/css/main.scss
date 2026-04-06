@@ -58,12 +58,12 @@
 
 .home-hero {
   position: relative;
-  margin: 0 0 2rem;
-  padding: 1.4rem 1.5rem;
-  border-radius: 14px;
+  margin: 0 0 0.9rem;
+  padding: 0.92rem 1rem;
+  border-radius: 10px;
   border: 1px solid rgba(100, 116, 139, 0.16);
   background: #f8fafc;
-  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.03);
 }
 
 .home-hero__eyebrow {
@@ -139,14 +139,14 @@
 }
 
 .home-section {
-  margin: 1.15rem 0;
+  margin: 0.72rem 0;
 }
 
 .home-section h2 {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  margin-bottom: 0.52rem;
+  margin-bottom: 0.34rem;
   font-family: "Caveat", "Comic Sans MS", cursive;
   font-size: 1.02rem;
   font-weight: 700;
@@ -204,15 +204,15 @@
   list-style: none;
   display: grid;
   grid-template-columns: 1fr;
-  gap: 0.46rem;
+  gap: 0.3rem;
 }
 
 .pub-card {
-  padding: 0.64rem 0.74rem;
+  padding: 0.42rem 0.52rem;
   border: 1px solid rgba(100, 116, 139, 0.14);
-  border-radius: 10px;
+  border-radius: 8px;
   background: #fff;
-  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.03);
+  box-shadow: none;
 }
 
 .pub-card__title {
@@ -238,16 +238,16 @@
 }
 
 .home-note {
-  margin-top: 0.42rem;
+  margin-top: 0.24rem;
   color: #475569;
   font-style: italic;
 }
 
 .home-contact {
-  padding: 1.1rem 1.2rem;
+  padding: 0.65rem 0.78rem;
   border: 1px solid rgba(15, 118, 110, 0.2);
-  border-radius: 12px;
-  background: rgba(15, 118, 110, 0.05);
+  border-radius: 8px;
+  background: rgba(15, 118, 110, 0.035);
 }
 
 @media (max-width: 768px) {
@@ -257,8 +257,8 @@
   }
 
   .home-hero {
-    padding: 1.25rem 1.15rem;
-    margin-bottom: 1.4rem;
+    padding: 0.82rem 0.88rem;
+    margin-bottom: 0.8rem;
   }
 
   .home-hero__title {
@@ -266,6 +266,6 @@
   }
 
   .home-section {
-    margin: 1rem 0;
+    margin: 0.62rem 0;
   }
 }
