@@ -75,7 +75,7 @@ redirect_from:
       <p class="pub-card__authors">Yangshijie Zhang*, <strong>Xinda Wang*</strong>, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title"><a href="https://arxiv.org/abs/2505.16307" target="_blank" rel="noopener">PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models</a> (EMNLP Findings 2025).</p>
+      <p class="pub-card__title"><a href="https://arxiv.org/abs/2505.16307" target="_blank" rel="noopener">PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models</a> (EMNLP 2025 Findings).</p>
       <p class="pub-card__authors">Chenzhuo Zhao, Ziqian Liu, <strong>Xinda Wang</strong>, Junting Lu, Chaoyi Ruan</p>
     </li>
     <li class="pub-card">
