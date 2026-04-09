@@ -22,11 +22,12 @@ redirect_from:
 </section>
 
 <section class="home-section">
-  <h2>Upcoming Open-Source Projects</h2>
+  <h2>Open-Source Projects</h2>
   <ul class="home-list">
     <li><strong>DailyPaperAgent</strong> - <a href="https://github.com/xindaaW/DailyPaperAgent" target="_blank" rel="noopener">GitHub</a></li>
     <li><strong>NovelWritingAgent</strong> - <a href="https://github.com/xindaaW/NovelWritingAgent" target="_blank" rel="noopener">GitHub</a></li>
     <li><strong>EditDeck</strong> - <a href="https://github.com/Morgensonne/EditDeck" target="_blank" rel="noopener">GitHub</a></li>
+    <li><strong>SciFigDetect</strong> - <a href="https://joyce-yoyo.github.io/SciFigDetect/" target="_blank" rel="noopener">Project Page</a></li>
   </ul>
   <p class="home-note">
     PRs and collaboration are welcome. Let's build better AI applications together.
@@ -67,15 +68,15 @@ redirect_from:
       <p class="pub-card__authors">Chenzhuo Zhao*, <strong>Xinda Wang*</strong>, Yue Huang, Junting Lu, Ziqian Liu</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title"><a href="https://arxiv.org/abs/2508.06046" target="_blank" rel="noopener">EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation</a> (ACL 2026).</p>
-      <p class="pub-card__authors"><strong>Xinda Wang</strong>, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang</p>
+      <p class="pub-card__title"><a href="https://arxiv.org/abs/2508.06046" target="_blank" rel="noopener">EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation</a> (ACL 2026 Main).</p>
+      <p class="pub-card__authors"><strong>Xinda Wang*</strong>, Zhengxu Hou*, Yangshijie Zhang, Bingren Yan, Jialin Liu, Chenzhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title">Triviality Corrected Endogenous Reward (ACL 2026).</p>
-      <p class="pub-card__authors"><strong>Xinda Wang</strong>, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Zhibo Yang, Xingsheng Zhang, Luxi Xing, Qiang Zhou, Chen Zhang</p>
+      <p class="pub-card__title">Triviality Corrected Endogenous Reward (ACL 2026 Main).</p>
+      <p class="pub-card__authors"><strong>Xinda Wang*</strong>, Zhengxu Hou*, Yangshijie Zhang, Bingren Yan, Jialin Liu, Chenzhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title">Gradient-Guided Multi-Judge Prompt Optimization (ACL 2026).</p>
+      <p class="pub-card__title">Gradient-Guided Multi-Judge Prompt Optimization (ACL 2026 Main, Oral).</p>
       <p class="pub-card__authors">ChenZhuo Zhao, <strong>Xinda Wang</strong>, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</p>
     </li>
     <li class="pub-card">
@@ -83,7 +84,7 @@ redirect_from:
       <p class="pub-card__authors">Yangshijie Zhang*, <strong>Xinda Wang*</strong>, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title"><a href="https://arxiv.org/abs/2505.16307" target="_blank" rel="noopener">PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models</a> (EMNLP 2025).</p>
+      <p class="pub-card__title"><a href="https://arxiv.org/abs/2505.16307" target="_blank" rel="noopener">PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models</a> (EMNLP Findings 2025).</p>
       <p class="pub-card__authors">Chenzhuo Zhao, Ziqian Liu, <strong>Xinda Wang</strong>, Junting Lu, Chaoyi Ruan</p>
     </li>
     <li class="pub-card">
