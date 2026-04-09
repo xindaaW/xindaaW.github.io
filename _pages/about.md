@@ -22,19 +22,6 @@ redirect_from:
 </section>
 
 <section class="home-section">
-  <h2>Open-Source Projects</h2>
-  <ul class="home-list">
-    <li><strong>DailyPaperAgent</strong> - <a href="https://github.com/xindaaW/DailyPaperAgent" target="_blank" rel="noopener">GitHub</a></li>
-    <li><strong>NovelWritingAgent</strong> - <a href="https://github.com/xindaaW/NovelWritingAgent" target="_blank" rel="noopener">GitHub</a></li>
-    <li><strong>EditDeck</strong> - <a href="https://github.com/Morgensonne/EditDeck" target="_blank" rel="noopener">GitHub</a></li>
-    <li><strong>SciFigDetect</strong> - <a href="https://joyce-yoyo.github.io/SciFigDetect/" target="_blank" rel="noopener">Project Page</a></li>
-  </ul>
-  <p class="home-note">
-    PRs and collaboration are welcome. Let's build better AI applications together.
-  </p>
-</section>
-
-<section class="home-section">
   <h2>Education</h2>
   <ul class="home-timeline">
     <li><strong>2020 - 2024</strong> · B.S., Central South University, Changsha, China</li>
@@ -49,6 +36,19 @@ redirect_from:
     <li><strong>2025.05 - 2026.01</strong> · LLM Algorithm Intern, Alibaba Xingyun Lab</li>
     <li><strong>2026.03 - Present</strong> · Algorithm Engineer Intern, Alibaba Qwen Team</li>
   </ul>
+</section>
+
+<section class="home-section">
+  <h2>Open-Source Projects</h2>
+  <ul class="home-list">
+    <li><strong>DailyPaperAgent</strong> - <a href="https://github.com/xindaaW/DailyPaperAgent" target="_blank" rel="noopener">GitHub</a> (⭐3)</li>
+    <li><strong>NovelWritingAgent</strong> - <a href="https://github.com/xindaaW/NovelWritingAgent" target="_blank" rel="noopener">GitHub</a> (⭐32)</li>
+    <li><strong>EditDeck</strong> - <a href="https://github.com/Morgensonne/EditDeck" target="_blank" rel="noopener">GitHub</a> (⭐369)</li>
+    <li><strong>SciFigDetect</strong> - <a href="https://joyce-yoyo.github.io/SciFigDetect/" target="_blank" rel="noopener">Project Page</a> (⭐3)</li>
+  </ul>
+  <p class="home-note">
+    PRs and collaboration are welcome. Let's build better AI applications together.
+  </p>
 </section>
 
 <section class="home-section">
