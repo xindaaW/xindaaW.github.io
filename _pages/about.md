@@ -35,15 +35,6 @@ redirect_from:
 </section>
 
 <section class="home-section">
-  <h2>Research Interests</h2>
-  <div class="home-chip-list">
-    <span class="home-chip">Human Preference Alignment for LLMs</span>
-    <span class="home-chip">Prompt Optimization</span>
-    <span class="home-chip">Benchmark Construction</span>
-  </div>
-</section>
-
-<section class="home-section">
   <h2>Education</h2>
   <ul class="home-timeline">
     <li><strong>2020 - 2024</strong> · B.S., Central South University, Changsha, China</li>
