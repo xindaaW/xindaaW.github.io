@@ -87,12 +87,12 @@ redirect_from:
 <section class="home-section">
   <h2>Under Review</h2>
   <ul class="home-list">
-    <li><strong>HintSteer: Predicting Context Imprints for Inference-Time Steering.</strong> <em>Under Review</em></li>
-    <li><strong>DARK: Discourse-Aware Ranking for Training-Free KV-Cache Pruning.</strong> <em>Under Review</em></li>
-    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>Under Review</em></li>
-    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>Under Review</em></li>
-    <li><strong>Process Rewarding via Solution-Space Alignment.</strong> <em>Under Review</em></li>
-    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong> <em>Under Review</em></li>
+    <li><strong>HintSteer: Predicting Context Imprints for Inference-Time Steering.</strong></li>
+    <li><strong>DARK: Discourse-Aware Ranking for Training-Free KV-Cache Pruning.</strong></li>
+    <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong></li>
+    <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong></li>
+    <li><strong>Process Rewarding via Solution-Space Alignment.</strong></li>
+    <li><strong>ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR.</strong></li>
   </ul>
 </section>
 
