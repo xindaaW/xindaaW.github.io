@@ -41,10 +41,9 @@ redirect_from:
 <section class="home-section">
   <h2>Open-Source Projects</h2>
   <ul class="home-list">
-    <li><strong>DailyPaperAgent</strong> - <a href="https://github.com/xindaaW/DailyPaperAgent" target="_blank" rel="noopener">GitHub</a> (⭐3)</li>
-    <li><strong>NovelWritingAgent</strong> - <a href="https://github.com/xindaaW/NovelWritingAgent" target="_blank" rel="noopener">GitHub</a> (⭐32)</li>
-    <li><strong>EditDeck</strong> - <a href="https://github.com/Morgensonne/EditDeck" target="_blank" rel="noopener">GitHub</a> (⭐369)</li>
-    <li><strong>SciFigDetect</strong> - <a href="https://joyce-yoyo.github.io/SciFigDetect/" target="_blank" rel="noopener">Project Page</a> (⭐3)</li>
+    <li><strong>NovelWritingAgent</strong> - <a href="https://github.com/xindaaW/NovelWritingAgent" target="_blank" rel="noopener">GitHub</a> (⭐22)</li>
+    <li><strong>EditDeck</strong> - <a href="https://github.com/Morgensonne/EditDeck" target="_blank" rel="noopener">GitHub</a> (⭐1077)</li>
+    <li><strong>SciFigDetect</strong> - <a href="https://joyce-yoyo.github.io/SciFigDetect/" target="_blank" rel="noopener">Project Page</a> (⭐5)</li>
   </ul>
   <p class="home-note">
     PRs and collaboration are welcome. Let's build better AI applications together.
@@ -63,7 +62,7 @@ redirect_from:
       <p class="pub-card__authors"><strong>Xinda Wang*</strong>, Zhengxu Hou*, Yangshijie Zhang, Bingren Yan, Jialin Liu, Chenzhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title">Triviality Corrected Endogenous Reward (ACL 2026 Main).</p>
+      <p class="pub-card__title"><a href="https://arxiv.org/abs/2604.11522" target="_blank" rel="noopener">Triviality Corrected Endogenous Reward</a> (ACL 2026 Main).</p>
       <p class="pub-card__authors"><strong>Xinda Wang*</strong>, Zhengxu Hou*, Yangshijie Zhang, Bingren Yan, Jialin Liu, Chenzhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao</p>
     </li>
     <li class="pub-card">
@@ -88,6 +87,8 @@ redirect_from:
 <section class="home-section">
   <h2>Under Review</h2>
   <ul class="home-list">
+    <li><strong>HintSteer: Predicting Context Imprints for Inference-Time Steering.</strong> <em>Under Review</em></li>
+    <li><strong>DARK: Discourse-Aware Ranking for Training-Free KV-Cache Pruning.</strong> <em>Under Review</em></li>
     <li><strong>DisRec: Disease Diagnosis as Recommendation.</strong> <em>Under Review</em></li>
     <li><strong>Rank4SID: A Three-Stage Progressive Ranking Framework for Universal Synthetic Image Detection.</strong> <em>Under Review</em></li>
     <li><strong>Process Rewarding via Solution-Space Alignment.</strong> <em>Under Review</em></li>
