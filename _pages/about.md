@@ -52,6 +52,7 @@ redirect_from:
 
 <section class="home-section">
   <h2>Selected Publications</h2>
+  <h3>First &amp; Co-First Author</h3>
   <ul class="pub-cards">
     <li class="pub-card">
       <p class="pub-card__title"><a href="https://arxiv.org/abs/2508.05468" target="_blank" rel="noopener">TASE: Token Awareness and Structured Evaluation for Multilingual Language Models</a> (AAAI 2026, Equal contribution).</p>
@@ -66,20 +67,28 @@ redirect_from:
       <p class="pub-card__authors"><strong>Xinda Wang*</strong>, Zhengxu Hou*, Yangshijie Zhang, Bingren Yan, Jialin Liu, Chenzhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao</p>
     </li>
     <li class="pub-card">
+      <p class="pub-card__title"><a href="https://arxiv.org/abs/2510.19641" target="_blank" rel="noopener">Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent</a> (ICASSP 2026, Equal contribution).</p>
+      <p class="pub-card__authors">Yangshijie Zhang*, <strong>Xinda Wang*</strong>, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia</p>
+    </li>
+    <li class="pub-card">
+      <p class="pub-card__title">Qwen3.8: A New Bar for Coding and Cowork.</p>
+      <p class="pub-card__authors">Qwen Team (contribution to CPT &amp; rubric RL)</p>
+    </li>
+  </ul>
+
+  <h3>Other Core-Author Papers</h3>
+  <ul class="pub-cards">
+    <li class="pub-card">
       <p class="pub-card__title"><a href="https://aclanthology.org/2026.acl-long.1089/" target="_blank" rel="noopener">Gradient-Guided Multi-Judge Prompt Optimization</a> (ACL 2026 Main, Oral).</p>
       <p class="pub-card__authors">ChenZhuo Zhao, <strong>Xinda Wang</strong>, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">HintSteer: Predicting Context Imprints for Inference-Time Steering (EMNLP 2026 Findings).</p>
-      <p class="pub-card__authors"><a href="https://openreview.net/profile?id=~Xinda_Wang1" target="_blank" rel="noopener"><strong>Xinda Wang</strong></a>, <a href="https://openreview.net/profile?id=~ChenZhuo_Zhao1" target="_blank" rel="noopener">ChenZhuo Zhao</a>, <a href="https://openreview.net/profile?id=~You_Hu1" target="_blank" rel="noopener">You Hu</a>, <a href="https://openreview.net/profile?id=~Guotong_Li1" target="_blank" rel="noopener">Guotong Li</a>, <a href="https://openreview.net/profile?id=~Chuang_Ou2" target="_blank" rel="noopener">Chuang Ou</a>, <a href="https://openreview.net/profile?id=~Yuhao_Zheng3" target="_blank" rel="noopener">Yuhao Zheng</a></p>
+      <p class="pub-card__authors"><strong>Xinda Wang</strong>, ChenZhuo Zhao, You Hu, Guotong Li, Chuang Ou, Yuhao Zheng</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title"><a href="https://openreview.net/forum?id=NDNnxRC1GY" target="_blank" rel="noopener">Process Rewarding via Solution-Space Alignment</a> (EMNLP 2026 Main).</p>
-      <p class="pub-card__authors"><a href="https://openreview.net/profile?id=~ChenZhuo_Zhao1" target="_blank" rel="noopener">ChenZhuo Zhao</a>, <a href="https://openreview.net/profile?id=~Yue_Huang10" target="_blank" rel="noopener">Yue Huang</a>, <a href="https://openreview.net/profile?id=~Pu_Zhao3" target="_blank" rel="noopener">Pu Zhao</a>, <a href="https://openreview.net/profile?id=~Fangkai_Yang3" target="_blank" rel="noopener">Fangkai Yang</a>, <a href="https://openreview.net/profile?id=~Lu_Wang11" target="_blank" rel="noopener">Lu Wang</a>, <a href="https://openreview.net/profile?id=~Lin_Ma22" target="_blank" rel="noopener">Lin Ma</a>, <a href="https://openreview.net/profile?id=~Zhi_Yang15" target="_blank" rel="noopener">Zhi Yang</a>, <a href="https://openreview.net/profile?id=~Youling_Huang2" target="_blank" rel="noopener">Youling Huang</a>, <a href="https://openreview.net/profile?id=~Xinda_Wang1" target="_blank" rel="noopener"><strong>Xinda Wang</strong></a>, <a href="https://openreview.net/profile?id=~Junting_Lu2" target="_blank" rel="noopener">Junting Lu</a>, <a href="https://openreview.net/profile?id=~Qingwei_Lin1" target="_blank" rel="noopener">Qingwei Lin</a>, <a href="https://openreview.net/profile?id=~Saravan_Rajmohan3" target="_blank" rel="noopener">Saravan Rajmohan</a>, <a href="https://openreview.net/profile?id=~Dongmei_Zhang2" target="_blank" rel="noopener">Dongmei Zhang</a></p>
-    </li>
-    <li class="pub-card">
-      <p class="pub-card__title"><a href="https://arxiv.org/abs/2510.19641" target="_blank" rel="noopener">Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent</a> (ICASSP 2026, Equal contribution).</p>
-      <p class="pub-card__authors">Yangshijie Zhang*, <strong>Xinda Wang*</strong>, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia</p>
+      <p class="pub-card__title">Process Rewarding via Solution-Space Alignment (EMNLP 2026 Main).</p>
+      <p class="pub-card__authors">ChenZhuo Zhao, Yue Huang, Pu Zhao, Fangkai Yang, Lu Wang, Lin Ma, Zhi Yang, Youling Huang, <strong>Xinda Wang</strong>, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title"><a href="https://arxiv.org/abs/2505.16307" target="_blank" rel="noopener">PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models</a> (EMNLP 2025 Findings).</p>
@@ -88,16 +97,6 @@ redirect_from:
     <li class="pub-card">
       <p class="pub-card__title"><a href="https://doi.org/10.1609/aaai.v39i1.32031" target="_blank" rel="noopener">Recoverable Facial Identity Protection via Adaptive Makeup Transfer Adversarial Attacks</a> (AAAI 2025, Oral).</p>
       <p class="pub-card__authors">Xiyao Liu, Junxing Ma, <strong>Xinda Wang</strong>, Qianyu Lin, Jian Zhang, Gerald Schaefer, Cagatay Turkay, Hui Fang</p>
-    </li>
-  </ul>
-</section>
-
-<section class="home-section">
-  <h2>Technical Reports</h2>
-  <ul class="pub-cards">
-    <li class="pub-card">
-      <p class="pub-card__title"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=7U0_-4cAAAAJ&amp;citation_for_view=7U0_-4cAAAAJ:LkGwnXOMwfcC" target="_blank" rel="noopener">Qwen3.8: A New Bar for Coding and Cowork</a>.</p>
-      <p class="pub-card__authors">Qwen Team (contribution to CPT &amp; rubric RL)</p>
     </li>
   </ul>
 </section>
