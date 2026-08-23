@@ -71,8 +71,8 @@ redirect_from:
       <p class="pub-card__authors">Yangshijie Zhang*, <strong>Xinda Wang*</strong>, Jialin Liu, Wenqiang Wang, Zhicong Ma, Xingxing Jia</p>
     </li>
     <li class="pub-card">
-      <p class="pub-card__title">Qwen3.8: A New Bar for Coding and Cowork.</p>
-      <p class="pub-card__authors">Qwen Team (contribution to CPT &amp; rubric RL)</p>
+      <p class="pub-card__title">HintSteer: Predicting Context Imprints for Inference-Time Steering (EMNLP 2026 Findings).</p>
+      <p class="pub-card__authors"><strong>Xinda Wang</strong>, ChenZhuo Zhao, You Hu, Guotong Li, Chuang Ou, Yuhao Zheng</p>
     </li>
   </ul>
 
@@ -81,10 +81,6 @@ redirect_from:
     <li class="pub-card">
       <p class="pub-card__title"><a href="https://aclanthology.org/2026.acl-long.1089/" target="_blank" rel="noopener">Gradient-Guided Multi-Judge Prompt Optimization</a> (ACL 2026 Main, Oral).</p>
       <p class="pub-card__authors">ChenZhuo Zhao, <strong>Xinda Wang</strong>, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</p>
-    </li>
-    <li class="pub-card">
-      <p class="pub-card__title">HintSteer: Predicting Context Imprints for Inference-Time Steering (EMNLP 2026 Findings).</p>
-      <p class="pub-card__authors"><strong>Xinda Wang</strong>, ChenZhuo Zhao, You Hu, Guotong Li, Chuang Ou, Yuhao Zheng</p>
     </li>
     <li class="pub-card">
       <p class="pub-card__title">Process Rewarding via Solution-Space Alignment (EMNLP 2026 Main).</p>
@@ -97,6 +93,22 @@ redirect_from:
     <li class="pub-card">
       <p class="pub-card__title"><a href="https://doi.org/10.1609/aaai.v39i1.32031" target="_blank" rel="noopener">Recoverable Facial Identity Protection via Adaptive Makeup Transfer Adversarial Attacks</a> (AAAI 2025, Oral).</p>
       <p class="pub-card__authors">Xiyao Liu, Junxing Ma, <strong>Xinda Wang</strong>, Qianyu Lin, Jian Zhang, Gerald Schaefer, Cagatay Turkay, Hui Fang</p>
+    </li>
+  </ul>
+</section>
+
+<section class="home-section">
+  <h2>Technical Reports</h2>
+  <ul class="pub-cards">
+    <li class="pub-card">
+      <p class="pub-card__title"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=7U0_-4cAAAAJ&amp;citation_for_view=7U0_-4cAAAAJ:roLk4NBRz8UC" target="_blank" rel="noopener">Qwen3.7: The Agent Frontier</a>.</p>
+      <p class="pub-card__authors">Qwen Team</p>
+      <p class="pub-card__contribution">Contribution to HumanBenchmark for writing.</p>
+    </li>
+    <li class="pub-card">
+      <p class="pub-card__title"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=7U0_-4cAAAAJ&amp;citation_for_view=7U0_-4cAAAAJ:LkGwnXOMwfcC" target="_blank" rel="noopener">Qwen3.8: A New Bar for Coding and Cowork</a>.</p>
+      <p class="pub-card__authors">Qwen Team</p>
+      <p class="pub-card__contribution">Contribution to CPT for writing and MixRL for RubricRL.</p>
     </li>
   </ul>
 </section>
